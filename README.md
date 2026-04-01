@@ -2,20 +2,19 @@
   <img src="https://copilot.microsoft.com/th/id/BCO.503a7c08-097d-4a75-83e6-209fa7c5d0a7.png" alt="Johnny Jakobsson — Work / Lab / Now" width="100%">
 </div>
 
+## About
 
-## Hi there 👋
+AI-focused system builder.
 
-<!--
-**Johnny70/Johnny70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build:
+- agents
+- tools
+- automation systems
 
-Here are some ideas to get you started:
+Goal: remove manual work entirely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Clarity > complexity.
+Systems > scripts.
+Execution > ideas.
