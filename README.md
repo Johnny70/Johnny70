@@ -6,15 +6,13 @@
 
 AI-focused system builder.
 
-I design and build:
-- agents
-- tools
-- automation systems
+I build:
+- agents that act
+- tools that matter
+- systems that replace work
 
 Goal: remove manual work entirely.
 
----
-
-Clarity > complexity.
-Systems > scripts.
-Execution > ideas.
+Clarity > complexity  
+Systems > scripts  
+Execution > ideas
